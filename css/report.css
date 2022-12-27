@@ -1,0 +1,17 @@
+@media print {
+  canvas.mpChart {
+    min-height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    height: auto !important;
+    width: auto !important;
+  }
+
+  .admin-dashboard {
+    display: none !important;
+  }
+
+  .cstaff-nav {
+    display: none !important;
+  }
+}
